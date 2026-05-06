@@ -1,0 +1,3 @@
+Run on local data:
+
+nextflow run main.nf --mode local --input_reads "data/*_{1,2}.fq" --outdir results

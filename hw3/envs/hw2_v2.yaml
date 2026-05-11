@@ -1,0 +1,16 @@
+name: hw2_v2
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - matplotlib
+  - fastqc
+  - fastp
+  - sra-tools
+  - spades
+  - bwa
+  - samtools
+  - bcftools
+  - htslib
+  - nextflow
